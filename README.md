@@ -28,7 +28,7 @@ The outcome of the game may be “fatal”: a feature that makes the game all th
 Work on implementing this feature so that players don’t lose “lives” if they guess the letter correctly. The While loop will help. 
 ### :ballot_box_with_check: Stage 7/8: Error!
  Improve the game by handling different error cases. Repetition of a letter, entering words that are too long, or using non-Latin characters shouldn’t cost your player a life. 
-### :ballot_box_with_check: Stage 4/8: Menu, please
+### :ballot_box_with_check: Stage 8/8: Menu, please
 Dinner at a restaurant starts with the menu; our project ends with one. Create a menu for your game so that players can replay it or exit. 
 ### Demo
 

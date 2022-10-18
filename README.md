@@ -31,7 +31,7 @@ Work on implementing this feature so that players don’t lose “lives” if th
 ### :ballot_box_with_check: Stage 8/8: Menu, please
 Dinner at a restaurant starts with the menu; our project ends with one. Create a menu for your game so that players can replay it or exit. 
 ### Demo
-
+![Alt-текст](https://github.com/PaulinaMacurek/Hangman/blob/master/Hangman/task/hangman/demo.gif "Demo")
 
 
 
